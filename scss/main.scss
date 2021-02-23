@@ -1,5 +1,6 @@
 @import 'config';
 @import 'menu';
+@import 'mobile';
 
 @mixin easeOut{
     transition: all 0.5s ease-out;
